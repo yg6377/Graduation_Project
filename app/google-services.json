@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249880608042",
+    "project_id": "fir-emailaccount-1e4f5",
+    "storage_bucket": "fir-emailaccount-1e4f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249880608042:android:f4846aa28e592cc197f253",
+        "android_client_info": {
+          "package_name": "com.example.loginexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnZQEOmRJK7luUqnA04Ftr4wzDKBHLHh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
